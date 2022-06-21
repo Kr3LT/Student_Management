@@ -1,0 +1,23 @@
+
+Student Service
+1. Get All Student from the same class id.
+2. Get Scores of subject
+3. Get teacher of subject
+4. Register a subject
+5. Change personal information
+
+Staff Service
+1. Get All Student from subject
+2. Register new Student
+3. Register new Class
+4. Add Scores of subject
+5. Change personal information
+
+Admin Service
+1. Get All Department
+2. Get All Teacher
+3. Get All Student
+4. Add new Student
+5. Add new Teacher
+6. Add new Class
+7. Add new User
